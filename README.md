@@ -17,6 +17,8 @@ To Install, for Windows users,
 
 3. Put the following line in your _vimrc
 
-  let g:languagetool_jar='~SomethingHere\LanguageTool-2.6\languagetool-commandline.jar'
+  let g:languagetool_jar='~SomethingHere\LanguageTool-X.X\languagetool-commandline.jar'
+
+4. Install `Java JDK` from Oricale, and **restart the machine**. This will enable `java` as a command from CMD (command line) of Windows.
 
 This would be good enough to have languagetool run for Windows users. (I have tested it on my Windows 8.1 machine and my screenshoot recording the successful run could be found here: https://onedrive.live.com/redir?resid=BC086804FCAEF04F%2117513).
