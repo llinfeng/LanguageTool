@@ -10,10 +10,14 @@ To Install, for Windows users,
  Plugin 'llinfeng/LanguageTool'
 
   
-2. To insall the LanguageTool Java distribution, download the "Stand-alone" version of LanguageTool from this address: 
+2. To insall the LanguageTool Java distribution, download the `Stand-alone` version of LanguageTool from this address: 
   
   https://www.languagetool.org/
 
+  Alternatively, one can: 
+  
+  * Find obsolete builds of langaugeTool at: https://www.languagetool.org/download/
+  * Find nightly built (yet may be unstable) at: http://www.languagetool.org/download/snapshots/
 
 3. Put the following line in your _vimrc
 
